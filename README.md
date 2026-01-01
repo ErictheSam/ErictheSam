@@ -1,9 +1,7 @@
-### This is Yibo Shen, a pragmatist trying to make a difference under spontaneous order. I'm interested in the digital infrastructure of smart cities, especially in those related to finance.
-<!-- - 👋 Hi, I’m @ErictheSam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+👋 Hi, I’m Yibo Shen
+- 👀 I’m an **Algorithm Engineer** transitioning to **AI Infrastructure & Systems**.
+- 🌱 I previously optimized high-concurrency Recommendation Systems; currently diving deep into **LLM Inference Engines (vLLM)** and **CUDA Kernel Optimization**.
+- 💞️ I’m looking to collaborate on open-source LLM and VLA Inference Systems such as VLLM and OpenVLA.
 
 <!---
 ErictheSam/ErictheSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
